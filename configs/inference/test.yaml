@@ -1,6 +1,6 @@
 task_0:
- video_path: "C:/Users/cocs3/lipsync-realistic-talking-cartoon-man-trimmed.mp4"
- audio_path: "C:/Users/cocs3/example-woman-voice-trimmed.wav"
+ video_path: "D:/University/FYP/my_musetalk_version/smaller_talking_man_video.mp4"
+ audio_path: "D:/University/FYP/my_musetalk_version/example-woman-voice-trimmed.wav"
 
 # task_1:
 #  video_path: "data/video/yongen.mp4"
